@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @piwi447
 - 👀 I’m interested in smart home application
-- 🌱 I’m currently learning Openhab / nodered
+- 🌱 I’m currently learning Python / Machine Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
